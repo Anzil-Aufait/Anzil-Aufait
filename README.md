@@ -8,5 +8,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzil-aufait&theme=onedark" alt="Anzil-Aufait" /></p>
 
+<!-- <p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=anzil-aufait&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Anzil Khan" />
+</p> -->
+
 <!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Anzil-Aufait&show_icons=true&theme=gotham" alt="Anzil-Aufait" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anzil-aufait&show_icons=true&locale=en" alt="Anzil-Aufait" /></p>-->
