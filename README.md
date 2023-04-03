@@ -4,6 +4,9 @@
 
 <br>
 
+
+[![Anzil Khan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anzil-aufait&custom_title=Anzil%20Khan's%20Contribuition%20Grapgh&hide_title=true&height=350&bg_color=282c34&color=e4bf7a&line=e06c6a&point=8eb573&area_color=abb2bf&area=true&hide_border=true&radius=8)](https://github.com/anzil-aufait/github-readme-activity-graph)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzil-aufait&theme=onedark&margin-w=18&no-frame=true" alt="Anzil-Aufait" /></a> </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzil-aufait&theme=onedark" alt="Anzil-Aufait" /></p> -->
