@@ -11,7 +11,7 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzil-aufait&theme=onedark" alt="Anzil-Aufait" /></p> -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anzil-Aufait&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anzil-Aufait&card_width=475&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
