@@ -5,13 +5,15 @@
 <br>
 
 
-<!-- [![Anzil Khan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anzil-aufait&custom_title=Anzil%20Khan's%20Contribuition%20Grapgh&hide_title=true&height=320&bg_color=282c34&color=e4bf7a&line=e06c6a&point=8eb573&area_color=abb2bf&area=true&hide_border=true&radius=8)](https://github.com/anzil-aufait/github-readme-activity-graph) -->
+<!-- --> 
+[![Anzil Khan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anzil-aufait&custom_title=Anzil%20Khan's%20Contribuition%20Grapgh&hide_title=true&height=320&bg_color=282c34&color=e4bf7a&line=e06c6a&point=8eb573&area_color=abb2bf&area=true&hide_border=true&radius=8)](https://github.com/anzil-aufait/github-readme-activity-graph)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anzil-aufait&theme=onedark&margin-w=16&no-frame=true&column=7" alt="Anzil-Aufait" /></a> </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzil-aufait&theme=onedark" alt="Anzil-Aufait" /></p> -->
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Anzil-Aufait&card_width=477&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) -->
+<!-- -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anzil-Aufait&card_width=477&theme=onedark&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
