@@ -3,6 +3,8 @@
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <br>
+<img align="left" src="https://komarev.com/ghpvc/?username=Anzil-Aufait&label=Profile%20views&color=259076&style=flat" alt="Anzil-Aufait" />
+<br>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
